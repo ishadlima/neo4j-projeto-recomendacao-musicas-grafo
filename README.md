@@ -37,5 +37,12 @@ O sistema é baseado em um grafo onde:
 - Estrutura simples e escalável
 - Aplicável a sistemas reais de streaming
 
+
+
+
+git add README.md
+git commit -m "ajuste no README"
+git push
+
 ## 🧑‍💻 Autor
 Ishad Lima
