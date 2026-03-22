@@ -38,7 +38,8 @@ O sistema é baseado em um grafo onde:
 - Aplicável a sistemas reais de streaming
 
 
-
+## Observação
+Este projeto utiliza modelagem em grafo para representar relações entre usuários e músicas, permitindo recomendações baseadas em conexões indiretas.
 
 git add README.md
 git commit -m "ajuste no README"
